@@ -2,7 +2,7 @@
 
 # Lightning DearPyGUI
 
-DearPyGUI inspired interfaces for [Lightning AI](https://lightning.ai)
+[DearPyGUI](https://github.com/hoffstadt/DearPyGui) inspired interfaces for [Lightning AI](https://lightning.ai)
 
 <!-- ![](https://img.shields.io/badge/Lightning.ai-Ecosystem-informational?style=flat&logo=pytorchlightning&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Grid.ai-Cloud_Compute-informational?style=flat&logo=grid.ai&logoColor=white&color=2bbc8a)
